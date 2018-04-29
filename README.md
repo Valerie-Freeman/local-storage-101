@@ -1,3 +1,3 @@
-# Name The Site!
+# Name-the-site!
 ## An example of local storage
 
