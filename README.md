@@ -1,5 +1,7 @@
 # Name-the-site: A demonstration of local storage
 
+![Image of site](localStorageSite.png "name-the-site")  
+
 ### How to run and use
 
 1. Clone this repo and run http server. The page will say 
